@@ -1,0 +1,6 @@
+Monotoncity : f(x) = y
+2 cases:
+- if x increases then y increases - increasing function
+- if x increases then y decreases - decreasing function
+
+
